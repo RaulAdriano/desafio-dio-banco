@@ -1,3 +1,8 @@
+import ramos.adriano.raul.banco.Cliente;
+import ramos.adriano.raul.banco.Conta;
+import ramos.adriano.raul.banco.ContaCorrente;
+import ramos.adriano.raul.banco.ContaPoupanca;
+
 public class Main {
     public static void main(String[] args) {
         Cliente cliente1 = new Cliente();

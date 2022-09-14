@@ -1,3 +1,5 @@
+package ramos.adriano.raul.banco;
+
 public abstract class Conta implements IConta {
 
     private static final int AGENCIA_PADRAO = 1;

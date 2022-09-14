@@ -1,3 +1,5 @@
+package ramos.adriano.raul.banco;
+
 public interface IConta {
     void sacar(double valor);
 
